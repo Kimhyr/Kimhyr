@@ -2,5 +2,5 @@
 
 ## Project listing
 
- - [ ] TUI audio player client
+ - [ ] TUI|CLI audio player
   * Downloads audio from YouTube videos, and plays them.
